@@ -19,7 +19,7 @@
 	<property name="driverClass" value="oracle.jdbc.OracleDriver"/>
 	<property name="url" value="jdbc:oracle:thin:@localhost:1521/orcl"/>
 	<property name="username" value="system"/>
-	<property name="password" value="student123"/>
+	<property name="password" value="Shirshakpanda31"/>
 </bean>
 
 <bean id="entityManagerFactory" class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
