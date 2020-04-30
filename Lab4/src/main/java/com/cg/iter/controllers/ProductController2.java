@@ -13,7 +13,7 @@ import com.cg.iter.entities.Product;
 import com.cg.iter.services.ProductService;
 
 @Controller
-@RequestMapping("/submit")
+@RequestMapping("/post")
 public class ProductController2 {
 
 	@Autowired private ProductService service;
