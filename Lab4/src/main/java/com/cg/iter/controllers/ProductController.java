@@ -15,7 +15,7 @@ public class ProductController {
     
     @Autowired private ProductService service;
     
-    @GetMapping("/home")
+    @GetMapping("/")
     public String createSample() {
         return "Welcome ITER";
     }
